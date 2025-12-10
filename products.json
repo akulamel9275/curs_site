@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "The Witcher 3: Wild Hunt",
+        "price": 1999,
+        "description": "Эпическая RPG в мире фэнтези от CD Projekt Red. Полное издание включает все дополнения. Более 200 наград 'Игры года'.",
+        "category": "RPG",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wyy.jpg",
+        "platform": "PC",
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "name": "Counter-Strike 2",
+        "price": 0,
+        "description": "Бесплатный тактический шутер от Valve с улучшенной графикой, геймплеем и системой подбора матчей.",
+        "category": "Шутер",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5f7a.jpg",
+        "platform": "PC",
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "name": "Elden Ring",
+        "price": 3499,
+        "description": "Сложная action-RPG в открытом мире от создателей Dark Souls. Колоссальный мир, эпические битвы и глубокая лор-составляющая.",
+        "category": "RPG",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4jni.jpg",
+        "platform": "Multiplatform",
+        "rating": 5
+    },
+    {
+        "id": 4,
+        "name": "FIFA 24",
+        "price": 4499,
+        "description": "Футбольный симулятор с лицензированными командами, реалистичной физикой и улучшенной графикой. Все лиги и чемпионаты.",
+        "category": "Спорт",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wxs.jpg",
+        "platform": "Multiplatform",
+        "rating": 4
+    },
+    {
+        "id": 5,
+        "name": "Cyberpunk 2077",
+        "price": 2499,
+        "description": "RPG в киберпанк-стиле от создателей Ведьмака. Полное издание с дополнением Phantom Liberty. Обновлённая графика и геймплей.",
+        "category": "RPG",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4k7m.jpg",
+        "platform": "Multiplatform",
+        "rating": 5
+    },
+    {
+        "id": 6,
+        "name": "Call of Duty: Modern Warfare III",
+        "price": 3999,
+        "description": "Продолжение культового шутера с новой кампанией, улучшенным мультиплеером и режимом зомби.",
+        "category": "Шутер",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6nln.jpg",
+        "platform": "Multiplatform",
+        "rating": 4
+    },
+    {
+        "id": 7,
+        "name": "God of War: Ragnarök",
+        "price": 4999,
+        "description": "Эпическое приключение Кратоса и Атрея в мире скандинавской мифологии. Улучшенный бой, новые локации и история.",
+        "category": "Экшен",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4k9x.jpg",
+        "platform": "PlayStation",
+        "rating": 5
+    },
+    {
+        "id": 8,
+        "name": "Forza Horizon 5",
+        "price": 2999,
+        "description": "Гоночный симулятор в открытом мире с потрясающей графикой, сотнями автомобилей и динамичной погодной системой.",
+        "category": "Спорт",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4k7a.jpg",
+        "platform": "Xbox/PC",
+        "rating": 5
+    },
+    {
+        "id": 9,
+        "name": "Baldur's Gate 3",
+        "price": 3999,
+        "description": "Награждённая множеством наград RPG с глубоким сюжетом, тактическими боями и нелинейным повествованием.",
+        "category": "RPG",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ha4.jpg",
+        "platform": "PC",
+        "rating": 5
+    },
+    {
+        "id": 10,
+        "name": "Minecraft",
+        "price": 1999,
+        "description": "Легендарная песочница с бесконечными возможностями для творчества. Стройте, исследуйте и выживайте.",
+        "category": "Песочница",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co49x5.jpg",
+        "platform": "Multiplatform",
+        "rating": 5
+    },
+    {
+        "id": 11,
+        "name": "Grand Theft Auto V",
+        "price": 1499,
+        "description": "Культовая игра с открытым миром, тремя протагонистами и онлайн-режимом с постоянными обновлениями.",
+        "category": "Экшен",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r8y.jpg",
+        "platform": "Multiplatform",
+        "rating": 5
+    },
+    {
+        "id": 12,
+        "name": "Red Dead Redemption 2",
+        "price": 2999,
+        "description": "Эпический вестерн с огромным открытым миром, глубоким сюжетом и невероятным вниманием к деталям.",
+        "category": "Экшен",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tmu.jpg",
+        "platform": "Multiplatform",
+        "rating": 5
+    }
+]
